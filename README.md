@@ -1,5 +1,5 @@
 # Python_Image-Steganography
-<div align="center"><img src="https://github.com/aagarwal1012/Image-Steganography-Library-Android/blob/master/images/cover.png?raw=true"/></div>  
+<div align="center"><img src=""/></div>  
 <div align= "center">
 	<img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform" />
 	
