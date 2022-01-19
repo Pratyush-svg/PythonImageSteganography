@@ -1,5 +1,5 @@
 # Python_Image-Steganography
-<div align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fsteganography-hiding-an-image-inside-another-77ca66b2acb1&psig=AOvVaw2ldv6IHeZ4bkme58ZPIAuA&ust=1642655503494000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjK0OGGvfUCFQAAAAAdAAAAABAD"/></div>   
+ 
 		
 </div>
 
