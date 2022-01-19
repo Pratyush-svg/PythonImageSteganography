@@ -1,9 +1,5 @@
 # Python_Image-Steganography
-<div align="center"><img src=""/></div>  
-<div align= "center">
-	<img src="https://img.shields.io/badge/platform-Android-brightgreen.svg" alt="Platform" />
-	
-<img src="https://img.shields.io/badge/API-16%2B-blue.svg" alt="API" /> 
+<div align="center"><img src=""/></div>   
 	
 <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-red.svg"
