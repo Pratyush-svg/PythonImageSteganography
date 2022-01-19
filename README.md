@@ -1,16 +1,6 @@
 # Python_Image-Steganography
 <div align="center"><img src=""/></div>   
-	
-<a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-red.svg"
-      alt="License: MIT" />
-  </a>
-	<a href="https://jitpack.io/#aagarwal1012/Image-Steganography-Library-Android"><img src="https://jitpack.io/v/aagarwal1012/Image-Steganography-Library-Android.svg" alt="version" /></a>
-	<a href="https://www.paypal.me/aagarwal1012">
-    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg"
-      alt="Donate" />
-  </a>
-	
+		
 </div>
 
 # Image Steganography
